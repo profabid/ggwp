@@ -106,6 +106,7 @@ public class CChecker
                         flager = flag = true;
                     }
                     //hiabid
+                    //hiOm
                     //for BitWise LS (<<)
                     if((s.charAt(i)=='<') && ((s.charAt(i+1)=='<') || (s.charAt(i-1)=='<') ) && (i+1)<s.length() && (i-1)>=0)
                     {
